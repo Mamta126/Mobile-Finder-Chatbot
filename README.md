@@ -59,7 +59,7 @@ SERPAPI_API_KEY = "your-serpapi-key"
 
 ### Step 3: Run the Chatbot
 ```bash
-streamlit run chatbot.py
+streamlit run mobile_chatbot.py
 ```
 
 ### Step 4: Ask Any Mobile-Related Question
